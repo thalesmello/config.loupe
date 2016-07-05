@@ -1,0 +1,2 @@
+set nosmartcase
+set nohlsearch
